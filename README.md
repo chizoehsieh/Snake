@@ -12,4 +12,6 @@
 - 當線上遊戲結束時，會顯示玩家的分數以及當前其他在線玩家的分數，增添遊戲競爭性。
 
 
+![image](https://github.com/user-attachments/assets/1a2dbfc5-8a08-4513-931d-79dc242101b4)
 
+![image](https://github.com/user-attachments/assets/35c77c56-5fc3-488e-8523-8f0de9f5b0fe)
